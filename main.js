@@ -19,6 +19,6 @@ cancel.addEventListener("click", function(){
 })
 delAc.addEventListener("click", function(){
     popup.style.display= "none";
-    msg.innerText="Your Account has been Permanently Deleted ✓"
+    msg.innerText="Your Account has been Permanently Deleted ✓ ok"
     msg.style.color= "green"
 })
